@@ -31,13 +31,6 @@
   <a href="https://discord.com/users/YOUR-ID" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitch.tv/YOUR-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://dev.to/YOUR-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" />
-  </a>
-</div>  
 
 ---
 
