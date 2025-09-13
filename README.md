@@ -7,10 +7,7 @@
 
 ### 🌟 About Me  
 - 🔭 Currently building awesome web apps with **Next.js + Tailwind CSS**  
-- 🌱 Exploring **AI/ML** & **Blockchain** side projects  
-- 👯 Open to collaborating on **Open Source** and **Hackathons**  
-- 💬 Ask me about **React, Node.js, MERN stack, and clean code practices**  
-- ⚡ Fun fact: I debug faster with ☕ coffee in hand  
+
 
 ---
 
