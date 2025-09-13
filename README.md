@@ -1,4 +1,4 @@
-## Hi there 👋  
+
 
 <h1 align="center">🚀 Hey, I'm Zain Rafique</h1>  
 <h3 align="center">Full-Stack Web Developer | AI/ML Enthusiast | Open-Source Explorer</h3>  
