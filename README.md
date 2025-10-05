@@ -113,27 +113,11 @@ const zain = {
 
 ---
 
-<div align="center">
 
-##  Achievement Gallery
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZainRafiqueDev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
-
-</div>
 
 ---
 
-<div align="center">
 
-##  Contribution Journey
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZainRafiqueDev/ZainRafiqueDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZainRafiqueDev/ZainRafiqueDev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZainRafiqueDev/ZainRafiqueDev/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
