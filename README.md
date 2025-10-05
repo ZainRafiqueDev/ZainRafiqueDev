@@ -114,13 +114,6 @@ const zain = {
 ---
 
 
-
----
-
-
-
----
-
 <div align="center">
 
 ##  Philosophy & Vision
