@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:5A189A&height=220&section=header&text=Hey%2C%20Zain%20Rafique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20and%20RAG%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10A37F,25:D97757,50:9D4EDD,75:1C3C3C,100:5A189A&height=220&section=header&text=Hey%2C%20Zain%20Rafique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20and%20RAG%20Developer&descAlignY=58&descSize=20" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10A37F,25:D97757,50:9D4EDD,75:1C3C3C,100:F7931E&height=42&text=LangChain%20%7C%20Claude%20%7C%20ChatGPT%20%7C%20LLM%20%7C%20RAG%20%7C%20LangGraph&fontSize=15&fontColor=ffffff&fontAlignY=62" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=AI+Agent+%26+RAG+Developer;Python+%2B+FastAPI+Backend+Architect;LLM+%26+Automation+Engineer;Next.js+%2B+AI+Integration;Building+Production-Grade+AI+Systems" alt="Typing Animation" />
 
@@ -65,10 +67,12 @@ const zain = {
 
 ### 🤖 AI & LLM Engineering
 <img src="https://img.shields.io/badge/🧠%20OpenAI-412991?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/💬%20ChatGPT-10A37F?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/🤖%20Claude%20(Anthropic)-D97757?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/🔗%20LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/🕸️%20LangGraph-2D2D2D?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/📚%20RAG-9D4EDD?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/⚡%20LLM%20Engineering-F7931E?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/🌲%20Pinecone-000000?style=for-the-badge&logoColor=white"/>
 
 ### ⚙️ Backend & Data
@@ -89,8 +93,8 @@ const zain = {
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZainRafiqueDev&count_private=true&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=1a1b27&title_color=9D4EDD&icon_color=9D4EDD" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=ZainRafiqueDev&count_private=true&theme=tokyonight&border_radius=12&hide_border=true&background=1a1b27&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZainRafiqueDev&count_private=true&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true&bg_color=1a1b27&title_color=10A37F&icon_color=10A37F" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ZainRafiqueDev&count_private=true&theme=tokyonight&border_radius=12&hide_border=true&background=1a1b27&ring=D97757&fire=D97757" alt="GitHub Streak Stats"/>
 
 <br/>
 
@@ -98,7 +102,7 @@ const zain = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainRafiqueDev&custom_title=Zain's%20Coding%20Journey&bg_color=1a1b27&color=9d4edd&line=f7931e&point=9d4edd&area_color=9D4EDD&title_color=ffffff&area=true" alt="Activity Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainRafiqueDev&custom_title=Zain's%20Coding%20Journey&bg_color=1a1b27&color=9d4edd&line=f7931e&point=10A37F&area_color=9D4EDD&title_color=ffffff&area=true" alt="Activity Graph" width="90%"/>
 
 </div>
 
@@ -162,7 +166,7 @@ const zain = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A189A,100:9D4EDD&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5A189A,25:1C3C3C,50:9D4EDD,75:D97757,100:10A37F&height=150&section=footer" width="100%"/>
 
 ### *"Building AI that ships, not AI that demos."*
 
@@ -171,10 +175,43 @@ const zain = {
 <!--
 SETUP NOTES (delete this comment block once done):
 
-1. Profile view counter uses countapi.xyz — replace "zainrafiquedev" in the URL with your actual GitHub username if different.
-2. The contribution snake animation needs a GitHub Actions workflow to generate. Create
-   .github/workflows/snake.yml in your profile repo using the Platane/snk action
-   (search "platane snk github action" for the exact YAML — it's a 10-line copy/paste setup).
-3. Replace the Upwork link placeholder with your real profile URL.
-4. All stat cards, streak graphs, and language charts update automatically — no action needed once your username is correct everywhere.
+1. Profile view counter now uses komarev.com (reliable, was already working in your original file — don't change this one).
+
+2. Contribution snake — create this exact file at .github/workflows/snake.yml in your
+   ZainRafiqueDev/ZainRafiqueDev repo, commit it, then it runs automatically on a schedule:
+
+   name: generate snake
+   on:
+     schedule:
+       - cron: "0 */6 * * *"
+     push:
+       branches: [ main ]
+     workflow_dispatch: {}
+   jobs:
+     generate:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: Platane/snk@v3
+           with:
+             github_user_name: ZainRafiqueDev
+             outputs: |
+               dist/github-contribution-grid-snake-dark.svg
+         - uses: crazy-max/ghaction-github-pages@v4
+           with:
+             target_branch: output
+             build_dir: dist
+           env:
+             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+   After the first run completes (check the Actions tab), the snake image will render.
+
+3. GitHub Stats / Streak / Top Languages cards may show broken temporarily — this is the
+   free public github-readme-stats.vercel.app and streak-stats.demolab.com instances being
+   overloaded, not a bug in this file (your Activity Graph pulled real data fine with the
+   same username, confirming the username itself is correct). If they stay broken for more
+   than a day or two, the standard fix is self-hosting: fork anuraghazra/github-readme-stats
+   and deploy your own copy to Vercel's free tier, then point the image URLs at your
+   deployment instead of the public one.
+
+4. Replace the Upwork link placeholder (~yourprofile) with your real profile URL.
 -->
