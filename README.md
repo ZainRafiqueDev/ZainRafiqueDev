@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:5A189A&height=220&section=header&text=Hey,%20I'm%20Zain%20Rafique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20%26%20RAG%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,100:5A189A&height=220&section=header&text=Hey%2C%20Zain%20Rafique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Agent%20and%20RAG%20Developer&descAlignY=58&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=AI+Agent+%26+RAG+Developer;Python+%2B+FastAPI+Backend+Architect;LLM+%26+Automation+Engineer;Next.js+%2B+AI+Integration;Building+Production-Grade+AI+Systems" alt="Typing Animation" />
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=9D4EDD&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fzainrafiquedev%2Freadme&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=ZainRafiqueDev&label=Profile%20Views&color=9D4EDD&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/ZainRafiqueDev?label=Followers&style=for-the-badge&color=5A189A&logoColor=white" alt="GitHub Followers"/>
 <img src="https://img.shields.io/badge/Available%20for%20Work-success?style=for-the-badge&color=2ea043" alt="Available"/>
 
@@ -64,12 +64,12 @@ const zain = {
 ## 🛠️ Tech Arsenal
 
 ### 🤖 AI & LLM Engineering
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-9D4EDD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20OpenAI-412991?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖%20Claude%20(Anthropic)-D97757?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔗%20LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🕸️%20LangGraph-2D2D2D?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/📚%20RAG-9D4EDD?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌲%20Pinecone-000000?style=for-the-badge&logoColor=white"/>
 
 ### ⚙️ Backend & Data
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgresql,mongodb,redis,docker" height="55"/>
@@ -110,7 +110,7 @@ const zain = {
 
 <img src="https://raw.githubusercontent.com/ZainRafiqueDev/ZainRafiqueDev/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-*Animated snake requires a one-time GitHub Actions setup — see note at the bottom of this file.*
+*Animated snake requires the one-time GitHub Actions setup below — it will show as a broken image until that workflow runs once.*
 
 </div>
 
